@@ -3,4 +3,7 @@ Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
 uwsgi
-nltk
+nltk.corpus
+nltk.classify
+nltk.tokenize
+nltk.classify.util
