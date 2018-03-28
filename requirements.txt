@@ -3,8 +3,6 @@ Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
 uwsgi
-nltk.corpus.stopwords
-nltk.corpus..movie_reviews
 nltk.classify
 nltk.tokenize
 nltk.classify.util
